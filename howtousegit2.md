@@ -97,7 +97,7 @@ $git branch login
 ```
 
 
-2.2. login브랜치가 잘 생성되었는지 확인합니다.
+2. login브랜치가 잘 생성되었는지 확인합니다.
     
 `* master`의 의미는 현재 HEAD가 가리키는 브랜치는 `master`라는 것입니다
 
@@ -108,7 +108,7 @@ $ git branch
 ```
 3. `git log --oneline`을 입력했을 때 아래와 같이 나와야 정상입니다.
     
-    `0604dcd` 커밋 기준으로 `master`와 `login`브랜치가 위치한 것을 볼 수 있습니다.$ git log 
+    `0604dcd` 커밋 기준으로 `master`와 `login`브랜치가 위치한 것을 볼 수 있습니다.
 
 ``` bash
 $ git log --oneline
@@ -117,7 +117,7 @@ $ git log --oneline
 3d71510 master-1
 ```
 
-4. `master` 브랜치에서 1개의 커밋을 더 작성합니다.
+1. `master` 브랜치에서 1개의 커밋을 더 작성합니다.
 ```bash
 test.txt에 master-4 작성
 $ git add .
