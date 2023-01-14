@@ -225,19 +225,20 @@ $ git commit -m "login-1"
     
     `master` 브랜치와 `login` 브랜치가 다른 갈래로 갈라진 것을 확인할 수 있습니다.
     
-    ```bash
-    $ git log --oneline --graph --all
-    * 3b0a091 (HEAD -> login) login-1
-    | * 5ca7701 (master) master-4
-    |/
-    * 0604dcd master-3
-    * 9c22c89 master-2
-    * 3d71510 master-1
-    ```
+```bash
+$ git log --oneline --graph --all
+ * 3b0a091 (HEAD -> login) login-1
+| * 5ca7701 (master) master-4
+|/
+* 0604dcd master-3
+* 9c22c89 master-2
+* 3d71510 master-1
+ ```
 
+</br>
 
 5. 현재까지 결과
     
-    ![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5932ce06-f1c4-41a3-86fe-efc431249abd%2FUntitled.png?id=b50e05ce-e129-496c-acc8-90a77519ba22&table=block&spaceId=f7ab64f0-6613-4035-b609-06b6865d9b61&width=1600&userId=a3b8ca82-fbbc-4a16-89ea-34670cda81f6&cache=v2)
+![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5932ce06-f1c4-41a3-86fe-efc431249abd%2FUntitled.png?id=b50e05ce-e129-496c-acc8-90a77519ba22&table=block&spaceId=f7ab64f0-6613-4035-b609-06b6865d9b61&width=1600&userId=a3b8ca82-fbbc-4a16-89ea-34670cda81f6&cache=v2)
 
 
