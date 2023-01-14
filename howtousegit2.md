@@ -5,7 +5,7 @@
 ## (1)Branch란?
 
 
-<img src = "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d6378065-5864-4832-8122-0fde3eb4f6ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230112%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230112T082915Z&X-Amz-Expires=86400&X-Amz-Signature=a215d0b36ba4d477c4aec4de2b6b59ddc2a81fb7d0b4edda1a126ce2f9938087&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width = "75%" height = "100%">  
+<img src = "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d6378065-5864-4832-8122-0fde3eb4f6ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230114%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230114T155430Z&X-Amz-Expires=86400&X-Amz-Signature=ae37273cf24eae894cbdf44590ab27f4b4a80d023afa9a6df783691d7dd8df33&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width = "75%" height = "100%">  
 
 - Branch는  <span style="color:red">나뭇가지</span>라는 뜻의 영단어입니다.
 - 즉 <span style="color:red">브랜치</span>란 나뭇가지처럼 여러 갈래로 작업 공간을 나누어 ***독립적으로 작업***할 수 있도록 도와주는 Git의 도구입니다.
